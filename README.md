@@ -1,7 +1,6 @@
 # app.R
 # First App
 
-
 #ui.R
 library(shiny)
 ui <- fluidPage(
